@@ -9,7 +9,8 @@
 [Fontes Consultadas](#fonte-consultadas)  
 [Autores](#autores)  
 
-# Projeto - Aprendendo 
+
+# Projeto - Aprendendo a escrever um README
 
 ## Descrição
 
