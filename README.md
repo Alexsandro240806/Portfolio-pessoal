@@ -11,8 +11,8 @@
 [Autores](#autores)  
 
 
-# Projeto - Aprendendo a escrever um README
-
+# Projeto - Aprendendo a escrever um 
+![image info](img/tela.png)
 ## Descrição
 
 ## Introdução
