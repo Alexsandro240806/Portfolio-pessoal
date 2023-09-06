@@ -13,7 +13,7 @@
 
 # Projeto - Aprendendo a escrever um README
 
-![image info](img/tela.png)
+![image info](img/tela.png) .
 
 ## Descrição
 Nós, da empresa GUNA, desenvolvemos um modelo de capa para você desenvolver ou desenvolvedora usar toda sua criatividade, um modelo voce ja tem, agora basta voce criar oque voce quiser! 
